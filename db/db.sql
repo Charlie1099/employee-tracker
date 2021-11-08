@@ -1,0 +1,3 @@
+CREATE DATABASE etracker
+USE etracker
+DROP DATABASE IF EXISTS election;
