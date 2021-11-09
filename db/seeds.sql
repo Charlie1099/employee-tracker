@@ -9,15 +9,15 @@ VALUES
 ("Susan", "Adams", 6, NULL),
 ("Larry", "Dennit", 7, 3);
 
-INSERT INTO manager (first_name, last_name)
-VALUES
-("Ricky", "Bobby"),
-("Lucius", "Washington"),
-("Susan", "Adams");
+-- INSERT INTO manager (first_name, last_name)
+-- VALUES
+-- ("Ricky", "Bobby"),
+-- ("Lucius", "Washington"),
+-- ("Susan", "Adams");
 
-INSERT INTO roles 
-(title, salary, department_id)
-VALUES 
-();
+-- INSERT INTO roles 
+-- (title, salary, department_id)
+-- VALUES 
+-- ();
 
-INSERT
+-- INSERT
