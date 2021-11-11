@@ -41,5 +41,5 @@ chalk
 Please reach out to cdcharlesworth@gmail.com if you have any questions
 
 # Links
-Github Repo:
-Walkthrough Video:
+Github Repo: https://github.com/Charlie1099/employee-tracker
+Walkthrough Video: https://watch.screencastify.com/v/QYKC6NOmx5YDSgFbexXN

@@ -77,9 +77,9 @@ const overview = () => {
             // if (choices === "Update employee manager") {
             //     updateEmployeeRole()
             // }
-            // if (choices === "Add role") {
-            //     addRole()
-            // }
+            if (choices === "Add role") {
+                addRole()
+            }
             // if (choices === "Remove role") {
             //     removeRole()
             // }
