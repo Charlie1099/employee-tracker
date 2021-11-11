@@ -9,15 +9,19 @@ VALUES
 ("Susan", "Adams", 6, NULL),
 ("Larry", "Dennit", 7, 3);
 
--- INSERT INTO manager (first_name, last_name)
--- VALUES
--- ("Ricky", "Bobby"),
--- ("Lucius", "Washington"),
--- ("Susan", "Adams");
+INSERT INTO role 
+(title, salary, department_id)
+VALUES 
+("Race Driver", 100000, 1),
+("Lead Driver", 200000, 1),
+("Pit Crew", 50000, 2),
+("Pit Crew Lead", 150000, 2),
+("Marketer", 60000, 3),
+("Marketing Manager", 150000, 3);
 
--- INSERT INTO roles 
--- (title, salary, department_id)
--- VALUES 
--- ();
-
--- INSERT
+INSERT INTO department
+(department_name)
+VALUES
+("Driver"),
+("Pit Crew Team"),
+("Marketing");
